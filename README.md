@@ -7,7 +7,7 @@ Posts feed sample project built with React and Redux.
 ***
 ##### NOTE
 The project is based on [create-react-app](https://github.com/facebookincubator/create-react-app).
-All it's dependencies are abstracted away.
+All its dependencies are abstracted away.
 If you need to take full control on the project configuration (Webpack configs, for example), read more [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject).
 ***
 
